@@ -1,0 +1,3 @@
+Retrieving the data required for the assignment
+Total Number of tweets collected: 100
+Total Number of Unique Users: 68

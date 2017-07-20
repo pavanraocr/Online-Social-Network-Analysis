@@ -1,0 +1,9 @@
+Getting the users form the file
+Getting the follower ids from the list of users
+Getting common friends
+Most common friends:
+[(25073877, 22), (49698134, 20), (16589206, 19), (2465873473, 18), (1536791610, 18)]
+Pre-clustering Graph Stats:
+graph has 60 nodes and 1770 edges
+Now Partioning the graph
+Drawing graph after clustering look for  post_network.png

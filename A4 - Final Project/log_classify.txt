@@ -1,0 +1,7 @@
+Tweet classifier is executed
+Reads the labelled tweets for training
+Now training the data:Calling Vectorizer
+Total Number of tweets collected: 100
+Total Number of Unique Users: 68
+Fitting the model
+Predicting test data

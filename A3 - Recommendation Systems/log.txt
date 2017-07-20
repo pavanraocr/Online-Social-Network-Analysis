@@ -1,0 +1,6 @@
+vocab:
+[('action', 0), ('adventure', 1), ('animation', 2), ('children', 3), ('comedy', 4), ('crime', 5), ('documentary', 6), ('drama', 7), ('fantasy', 8), ('film-noir', 9)]
+99903 training ratings; 101 testing ratings
+error=0.787455
+[ 2.7945653   2.62385286  2.76558239  4.24064843  3.22115155  4.11423684
+  3.92040563  3.98286924  3.21565818  3.32692774]
